@@ -12,3 +12,8 @@ var = 22
 if var < 50 then:
   print('Maior que 50.')
 ```
+
+Checklist:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
